@@ -1,6 +1,6 @@
 {
-  "name": "bpmn-process-designer",
-  "version": "0.0.1",
+  "name": "@leon/bpmn-process-designer",
+  "version": "0.0.1-beta.1",
   "description": "A process designer base on Vue 2.x and ElementUI",
   "keywords": [
     "bpmn",
